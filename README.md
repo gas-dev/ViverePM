@@ -2,10 +2,12 @@
 
 Bilingual Italian/English website for Vivere Property Management.
 
-Initial concept focuses on:
-- short-term and holiday rentals
-- full property management
-- owners living abroad
-- maintenance, taxes and compliance
-- transparent owner reporting
-- renovation and sale support
+Current concept includes:
+- editorial homepage inspired by the approved visual template
+- short-term and holiday rental focus
+- owners abroad
+- complete property management and maintenance
+- reporting and owner-area concept
+- live contact form routed to the designated Gmail address through FormSubmit with reCAPTCHA enabled
+- Italian and English privacy/confirmation pages
+- GitHub Pages deployment from `main`
