@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://gas-dev.github.io/ViverePM/sitemap.xml
